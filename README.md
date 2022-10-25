@@ -2,8 +2,9 @@
 <ul>
   <li>:raised_hand_with_fingers_splayed: I'm Lucas from Brazil</li>
   <li>:desktop_computer: I'm a Frontend developer</li>
-  <li>:seedling: I'm currently learning React.</li>
+  <li>:seedling: I'm currently learning React and Typescript.</li>
   <li>:mortar_board: I gratuated in History in 2022 and I'm looking for a job as a software engineer</li>
+  <li>:nerd_face: I'm also curious about Java and have been playing around with the language</li>
 </ul>
 
 <h2>Tech Stack</h2>
